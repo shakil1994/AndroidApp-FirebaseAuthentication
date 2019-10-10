@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "619827210429",
+    "firebase_url": "https://fir-authentication-955e3.firebaseio.com",
+    "project_id": "fir-authentication-955e3",
+    "storage_bucket": "fir-authentication-955e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619827210429:android:b87b084bf8c9bcbdd06fd4",
+        "android_client_info": {
+          "package_name": "com.example.shakil.androidfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619827210429-k6oa4kkrmnv2talc3m057pkic2gksa58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.androidfirebaseauthentication",
+            "certificate_hash": "f99def597c1aacce8d70384d3a52e1f23ab25395"
+          }
+        },
+        {
+          "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCRKnw5t6yhUmO-0TP6wwZ4uf89DTflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619827210429:android:5007976b7de22e28d06fd4",
+        "android_client_info": {
+          "package_name": "com.example.shakil.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619827210429-7ulv92rsg3ajdahplqncrfihb07on4ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.firebaseauthentication",
+            "certificate_hash": "e216bb1d029c1c3468723eaf800d2acb5fb42ba7"
+          }
+        },
+        {
+          "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCRKnw5t6yhUmO-0TP6wwZ4uf89DTflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619827210429:android:d9b54afd3e4e65c7d06fd4",
+        "android_client_info": {
+          "package_name": "com.example.shakil.kotlinfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619827210429-qcirn4sll7qusugh9h7hp3gf6tjk8vmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.kotlinfirebaseauthentication",
+            "certificate_hash": "f99def597c1aacce8d70384d3a52e1f23ab25395"
+          }
+        },
+        {
+          "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCRKnw5t6yhUmO-0TP6wwZ4uf89DTflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619827210429:android:023939e1bd286ba7d06fd4",
+        "android_client_info": {
+          "package_name": "com.example.shakil.kotlinmyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619827210429-pekjglplld8vekufu1vf6b452tg3d7h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.kotlinmyapplication",
+            "certificate_hash": "f99def597c1aacce8d70384d3a52e1f23ab25395"
+          }
+        },
+        {
+          "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCRKnw5t6yhUmO-0TP6wwZ4uf89DTflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619827210429-doq2i4h0e2l7e2dckirrk94ia0luqdao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
